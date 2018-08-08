@@ -1,0 +1,15 @@
+div {
+  background-color: #eefbc1;
+}
+h1 {
+  background-color: #ddf111;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-weight: bold;
+  font-size: 30;
+  color: #222FFF;
+}
+p {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-style: italic;
+  color: #aaacff
+}
